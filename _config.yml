@@ -15,7 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hi! 👋 I'm Faith Losbanes."
 email: 'faithmarie.losbanes@gmail.com'
-description: "I think about the microbiome a lot. Trying my best to be a good biologist, environmentalist & plant mom."
+description: "I think about the microbiome a lot. Trying my best to be a good biologist, environmentalist & plant mom 🌱 I research queen honey bees & their microbiomes with the Dolezal Bee Lab 🐝, design web apps & source projects for social good with Hack4Impact 👩🏻‍💻 and run green initiatives with Students for Environmental Concerns 🌎
+I am currently in my senior year at the University of Illinois Urbana-Champaign studying Integrative Biology Honors with a minor in chemistry and a certification in computational science.
+I consider myself to be an ardent writer, cook and lover of music. 
+    "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'faithlosbanes'
